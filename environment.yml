@@ -6,6 +6,7 @@ dependencies:
   - numpy
   - ipython
   - pip
+  - scipy
   - pip:
     - nbgitpuller
     - sphinx-gallery
